@@ -1,0 +1,8 @@
+LGSM/.idea/
+LGSM/.venv/
+LGSM/__pycache__/
+LGSM/data/
+LGSM/datasets.egg-info/
+LGSM/build/
+**/.ipynb_checkpoints/
+.idea
