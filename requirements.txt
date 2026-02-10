@@ -1,0 +1,93 @@
+aiohappyeyeballs==2.6.1
+aiohttp==3.13.3
+aiosignal==1.4.0
+ase==3.27.0
+astor==0.8.1
+attrs==25.4.0
+certifi==2026.1.4
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1760437218288/work
+cloudpickle==3.1.2
+colorama==0.4.6
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_contourpy_1769155975/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_cycler_1764466758/work
+dnspython==2.8.0
+einops==0.8.2
+filelock==3.10.0
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1765632549069/work
+freetype-py @ file:///home/conda/feedstock_root/build_artifacts/freetype-py_1650983368720/work
+frozenlist==1.8.0
+fsspec==2025.12.0
+future==1.0.0
+greenlet @ file:///home/conda/feedstock_root/build_artifacts/greenlet_1769256908544/work
+hyperopt==0.1.2
+idna==3.11
+importlib==1.0.4
+Jinja2==3.1.6
+joblib==1.5.3
+json-tricks==3.17.3
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_kiwisolver_1762488745/work
+MarkupSafe==2.1.5
+matplotlib==3.10.8
+mpmath==1.3.0
+multidict==6.7.1
+munkres==1.1.4
+networkx==3.6.1
+nni==2.9
+numpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_numpy_1768085749/work/dist/numpy-2.4.1-cp311-cp311-linux_x86_64.whl#sha256=784b36d314f5bb003decb17cb79e0a7c0d98fe7df48b01d41b3f310c3559c206
+nvidia-cublas-cu11==11.11.3.6
+nvidia-cuda-cupti-cu11==11.8.87
+nvidia-cuda-nvrtc-cu11==11.8.89
+nvidia-cuda-runtime-cu11==11.8.89
+nvidia-cudnn-cu11==9.1.0.70
+nvidia-cufft-cu11==10.9.0.58
+nvidia-curand-cu11==10.3.0.86
+nvidia-cusolver-cu11==11.4.1.48
+nvidia-cusparse-cu11==11.7.5.86
+nvidia-nccl-cu11==2.21.5
+nvidia-nvtx-cu11==11.8.86
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+pandas @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pandas_1769076306/work
+pillow @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pillow_1767353193/work
+prettytable==3.17.0
+propcache==0.4.1
+protobuf==6.33.4
+psutil==7.2.1
+pycairo==1.29.0
+pymongo==4.16.0
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pyparsing_1769003998/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+PythonWebHDFS==0.2.3
+PyYAML==6.0.3
+rdkit @ file:///home/conda/feedstock_root/build_artifacts/rdkit-meta_1767159485016/work
+reportlab @ file:///home/conda/feedstock_root/build_artifacts/reportlab_1768558312394/work
+requests==2.32.5
+responses==0.25.8
+rlPyCairo @ file:///home/conda/feedstock_root/build_artifacts/rlpycairo_1756864152814/work
+schema==0.7.8
+scikit-learn==1.8.0
+scipy==1.17.0
+simplejson==3.20.2
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_sqlalchemy_1769087061/work
+sympy==1.13.1
+tabulate==0.9.0
+tensorboardX==2.6.4
+threadpoolctl==3.6.0
+torch==2.6.0+cu118
+torch-geometric==2.7.0
+torch_cluster==1.6.3+pt26cu118
+torch_scatter==2.1.2+pt26cu118
+torch_sparse==0.6.18+pt26cu118
+torch_spline_conv==1.2.2+pt26cu118
+torchaudio==2.6.0+cu118
+torchvision==0.21.0+cu118
+tqdm==4.67.1
+triton==3.2.0
+typeguard==2.13.0
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1756220668/work
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1763054814805/work
+urllib3==2.6.3
+wcwidth==0.5.0
+websockets==16.0
+xxhash==3.6.0
+yarl==1.22.0

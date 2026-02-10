@@ -1,0 +1,168 @@
+2025-09-14 13:25:26,447 MSE.Data INFO: ----------------------------------------
+2025-09-14 13:25:26,448 MSE.Data INFO: Running the loader_downstream.py
+2025-09-14 14:36:36,346 MSE.Data INFO: ----------------------------------------
+2025-09-14 14:36:36,346 MSE.Data INFO: Running the loader_downstream.py
+2025-09-20 01:40:13,849 MSE.Data INFO: ----------------------------------------
+2025-09-20 01:40:13,850 MSE.Data INFO: Running the loader_downstream.py
+2025-09-20 01:48:30,355 MSE.Data INFO: ----------------------------------------
+2025-09-20 01:48:30,355 MSE.Data INFO: Running the loader_downstream.py
+2025-09-20 02:06:51,139 MSE.Data INFO: ----------------------------------------
+2025-09-20 02:06:51,139 MSE.Data INFO: Running the loader_downstream.py
+2025-09-20 02:07:42,008 MSE.Data INFO: ----------------------------------------
+2025-09-20 02:07:42,008 MSE.Data INFO: Running the loader_downstream.py
+2025-09-20 09:07:14,245 MSE.Data INFO: ----------------------------------------
+2025-09-20 09:07:14,246 MSE.Data INFO: Running the loader_downstream.py
+2025-09-21 13:22:19,121 MSE.Data INFO: ----------------------------------------
+2025-09-21 13:22:19,121 MSE.Data INFO: Running the loader_downstream.py
+2025-09-21 13:29:00,810 MSE.Data INFO: ----------------------------------------
+2025-09-21 13:29:00,811 MSE.Data INFO: Running the loader_downstream.py
+2025-09-21 13:34:49,982 MSE.Data INFO: ----------------------------------------
+2025-09-21 13:34:49,982 MSE.Data INFO: Running the loader_downstream.py
+2025-09-21 13:42:27,817 MSE.Data INFO: ----------------------------------------
+2025-09-21 13:42:27,817 MSE.Data INFO: Running the loader_downstream.py
+2025-09-21 14:14:03,789 MSE.Data INFO: ----------------------------------------
+2025-09-21 14:14:03,789 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:25:51,471 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:25:51,472 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:28:36,065 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:28:36,065 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:35:42,464 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:35:42,464 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:41:01,886 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:41:01,886 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:42:28,612 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:42:28,613 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:42:46,492 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:42:46,493 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:44:23,793 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:44:23,793 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:47:50,075 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:47:50,075 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:48:22,988 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:48:22,988 MSE.Data INFO: Running the loader_downstream.py
+2025-09-22 14:52:50,872 MSE.Data INFO: ----------------------------------------
+2025-09-22 14:52:50,873 MSE.Data INFO: Running the loader_downstream.py
+2025-09-23 07:08:50,229 MSE.Data INFO: ----------------------------------------
+2025-09-23 07:08:50,229 MSE.Data INFO: Running the loader_downstream.py
+2025-09-23 07:10:16,960 MSE.Data INFO: ----------------------------------------
+2025-09-23 07:10:16,961 MSE.Data INFO: Running the loader_downstream.py
+2025-09-23 07:13:08,638 MSE.Data INFO: ----------------------------------------
+2025-09-23 07:13:08,638 MSE.Data INFO: Running the loader_downstream.py
+2025-09-25 09:26:12,996 MSE.Data INFO: ----------------------------------------
+2025-09-25 09:26:12,996 MSE.Data INFO: Running the loader_downstream.py
+2025-09-26 19:59:06,282 MSE.Data INFO: ----------------------------------------
+2025-09-26 19:59:06,282 MSE.Data INFO: Running the loader_downstream.py
+2025-09-26 19:59:18,447 MSE.Data INFO: ----------------------------------------
+2025-09-26 19:59:18,447 MSE.Data INFO: Running the loader_downstream.py
+2025-09-26 20:28:17,449 MSE.Data INFO: ----------------------------------------
+2025-09-26 20:28:17,450 MSE.Data INFO: Running the loader_downstream.py
+2025-09-27 09:32:56,005 MSE.Data INFO: ----------------------------------------
+2025-09-27 09:32:56,005 MSE.Data INFO: Running the loader_downstream.py
+2025-09-27 09:54:11,173 MSE.Data INFO: ----------------------------------------
+2025-09-27 09:54:11,173 MSE.Data INFO: Running the loader_downstream.py
+2025-09-27 09:55:06,840 MSE.Data INFO: ----------------------------------------
+2025-09-27 09:55:06,840 MSE.Data INFO: Running the loader_downstream.py
+2025-09-27 10:27:51,174 MSE.Data INFO: ----------------------------------------
+2025-09-27 10:27:51,174 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 14:45:09,312 MSE.Data INFO: ----------------------------------------
+2025-09-28 14:45:09,312 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 14:45:09,312 MSE.Data INFO: bace
+2025-09-28 15:04:49,906 MSE.Data INFO: ----------------------------------------
+2025-09-28 15:04:49,907 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 15:04:49,907 MSE.Data INFO: bace
+2025-09-28 15:04:49,963 MSE.Data INFO: MoleculeDataset(1513)
+2025-09-28 15:04:49,964 MSE.Data INFO: bbbp
+2025-09-28 15:07:38,431 MSE.Data INFO: ----------------------------------------
+2025-09-28 15:07:38,431 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 15:07:38,431 MSE.Data INFO: bace
+2025-09-28 15:07:38,439 MSE.Data INFO: MoleculeDataset(1513)
+2025-09-28 15:07:38,439 MSE.Data INFO: bbbp
+2025-09-28 15:07:38,486 MSE.Data INFO: MoleculeDataset(1984)
+2025-09-28 15:07:38,486 MSE.Data INFO: clintox
+2025-09-28 15:07:38,497 MSE.Data INFO: MoleculeDataset(1477)
+2025-09-28 15:07:38,497 MSE.Data INFO: esol
+2025-09-28 15:07:38,507 MSE.Data INFO: MoleculeDataset(1128)
+2025-09-28 15:07:38,507 MSE.Data INFO: freesolv
+2025-09-28 15:07:38,517 MSE.Data INFO: MoleculeDataset(642)
+2025-09-28 15:07:38,517 MSE.Data INFO: hiv
+2025-09-28 15:15:57,564 MSE.Data INFO: ----------------------------------------
+2025-09-28 15:15:57,564 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 15:15:57,564 MSE.Data INFO: bace
+2025-09-28 15:15:57,582 MSE.Data INFO: MoleculeDataset(1513)
+2025-09-28 15:15:57,582 MSE.Data INFO: bbbp
+2025-09-28 15:15:57,610 MSE.Data INFO: MoleculeDataset(1984)
+2025-09-28 15:15:57,611 MSE.Data INFO: clintox
+2025-09-28 15:15:57,613 MSE.Data INFO: MoleculeDataset(1477)
+2025-09-28 15:15:57,614 MSE.Data INFO: esol
+2025-09-28 15:15:57,615 MSE.Data INFO: MoleculeDataset(1128)
+2025-09-28 15:15:57,616 MSE.Data INFO: freesolv
+2025-09-28 15:15:57,617 MSE.Data INFO: MoleculeDataset(642)
+2025-09-28 15:15:57,617 MSE.Data INFO: hiv
+2025-09-28 15:21:32,057 MSE.Data INFO: ----------------------------------------
+2025-09-28 15:21:32,058 MSE.Data INFO: Running the loader_downstream.py
+2025-09-28 15:21:32,058 MSE.Data INFO: bace
+2025-09-28 15:21:32,072 MSE.Data INFO: MoleculeDataset(1513)
+2025-09-28 15:21:32,072 MSE.Data INFO: bbbp
+2025-09-28 15:21:36,359 MSE.Data INFO: Line 60, Error in matching subgraphs '[H]'
+2025-09-28 15:21:37,280 MSE.Data INFO: Line 69, Unable to process SMILES: CO/N=C(\C(=O)N[C@H]1C(=O)N2C(C(=O)[O-])=C(COC(C)=O)CS[C@@H]12)c1csc(N)n1.[Na+]
+2025-09-28 15:21:39,640 MSE.Data INFO: Line 120, Unable to process SMILES: O=C([O-])P(=O)([O-])[O-].[Na+].[Na+].[Na+]
+2025-09-28 15:21:39,743 MSE.Data INFO: Line 122, Unable to process SMILES: CCOc1ccc2ccccc2c1C(=O)N[C@@H]1C(=O)N2[C@@H]1SC(C)(C)[C@@H]2C(=O)[O-].[Na+]
+2025-09-28 15:21:40,150 MSE.Data INFO: Line 127, Error in matching subgraphs '[H]'
+2025-09-28 15:21:40,444 MSE.Data INFO: Line 132, Unable to process SMILES: Cc1nnc(SCC2=C(C(=O)[O-])N3C(=O)[C@@H](NC(=O)Cn4cnnn4)[C@H]3SC2)s1.[Na+]
+2025-09-28 15:21:45,123 MSE.Data INFO: Line 196, Error in matching subgraphs '[H]'
+2025-09-28 15:21:50,790 MSE.Data INFO: Line 223, Error in matching subgraphs '[H]'
+2025-09-28 15:21:54,653 MSE.Data INFO: Line 309, Error in matching subgraphs '[H]'
+2025-09-28 15:21:55,610 MSE.Data INFO: Line 317, Unable to process SMILES: CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)[O-])c1I.[Na+]
+2025-09-28 15:21:56,811 MSE.Data INFO: Line 344, Unable to process SMILES: CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](C(=O)[O-])c3ccsc3)C(=O)N2[C@H]1C(=O)[O-].[Na+].[Na+]
+2025-09-28 15:21:57,572 MSE.Data INFO: Line 349, Unable to process SMILES: Nc1nc(=O)c2c([nH]1)NCC(CNc1ccc(C(=O)N[C@@H](CCC(=O)[O-])C(=O)[O-])cc1)N2C=O.[Ca+2]
+2025-09-28 15:21:58,427 MSE.Data INFO: Line 368, Unable to process SMILES: O=S(=O)([O-])CCS.[Na+]
+2025-09-28 15:22:04,825 MSE.Data INFO: Line 450, Error in matching subgraphs '[H]'
+2025-09-28 15:22:05,333 MSE.Data INFO: Line 474, Error in matching subgraphs '[H]'
+2025-09-28 15:22:09,293 MSE.Data INFO: Line 560, Error in matching subgraphs '[H]'
+2025-09-28 15:22:11,541 MSE.Data INFO: Line 604, Error in matching subgraphs '[H]'
+2025-09-28 15:22:14,144 MSE.Data INFO: Line 658, Error in matching subgraphs '[H]'
+2025-09-28 15:22:17,659 MSE.Data INFO: Line 731, Unable to process SMILES: C=CCSCC(=O)NC1C(=O)N2C1SC(C)(C)C2C(=O)[O-].[Na+]
+2025-09-28 15:22:18,049 MSE.Data INFO: Line 735, Error in matching subgraphs '[H]'
+2025-09-28 15:22:20,745 MSE.Data INFO: Line 760, Unable to process SMILES: Cn1nnnc1SCC1=C(C(=O)[O-])N2C(=O)[C@@H](NC(=O)CSC(F)(F)F)[C@H]2SC1.[Na+]
+2025-09-28 15:22:22,778 MSE.Data INFO: Line 783, Unable to process SMILES: COCC1=C(C(=O)[O-])N2C(=O)[C@@H](NC(=O)/C(=N\OC)c3csc(N)n3)[C@H]2SC1.[Na+]
+2025-09-28 15:22:24,049 MSE.Data INFO: Line 799, Unable to process SMILES: CC(=O)OCC1=C(C(=O)[O-])N2C(=O)[C@H](NC(=O)CC#N)[C@@H]2SC1.[Na+]
+2025-09-28 15:22:35,534 MSE.Data INFO: Line 835, Unable to process SMILES: CO[C@@]1(NC(=O)CSC(F)(F)F)C(=O)N2C(C(=O)O)=C(CSc3nnnn3CCO)CO[C@@H]21.[Na]
+2025-09-28 15:22:39,850 MSE.Data INFO: Line 862, Error in matching subgraphs '[H]'
+2025-09-28 15:22:43,881 MSE.Data INFO: Line 891, Unable to process SMILES: CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)O.[Na]
+2025-09-28 15:22:44,972 MSE.Data INFO: Line 897, Unable to process SMILES: CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NC(=O)c3ccc(-c4ccc(S(=O)(=O)N(CCO)CCO)cc4)[nH]c3=O)c3ccc(O)cc3)C(=O)N2[C@H]1C(=O)[O-].[Na+]
+2025-09-28 15:22:49,698 MSE.Data INFO: Line 915, Unable to process SMILES: C[C@@H](O)[C@H]1C(=O)N2C(C(=O)[O-])=C(COC(N)=O)S[C@H]12.[Na+]
+2025-09-28 15:22:52,145 MSE.Data INFO: Line 928, Unable to process SMILES: CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](NS(=O)(=O)[O-])c3ccccc3)C(=O)N2[C@H]1C(=O)[O-].[Na+].[Na+]
+2025-09-28 15:22:57,309 MSE.Data INFO: Line 946, Error in matching subgraphs '[H]'
+2025-09-28 15:22:57,412 MSE.Data INFO: Line 949, Error in matching subgraphs '[H]'
+2025-09-28 15:22:59,445 MSE.Data INFO: Line 977, Error in matching subgraphs '[H]'
+2025-09-28 15:23:03,804 MSE.Data INFO: Line 1055, Error in matching subgraphs '[H]'
+2025-09-28 15:23:11,849 MSE.Data INFO: Line 1175, Error in matching subgraphs '[H]'
+2025-09-28 15:23:13,173 MSE.Data INFO: Line 1202, Error in matching subgraphs '[H]'
+2025-09-28 15:23:13,285 MSE.Data INFO: Line 1207, Error in matching subgraphs '[H]'
+2025-09-28 15:23:17,703 MSE.Data INFO: Line 1280, Error in matching subgraphs '[H]'
+2025-09-28 15:23:19,813 MSE.Data INFO: Line 1308, Error in matching subgraphs '[H]'
+2025-09-28 15:23:20,045 MSE.Data INFO: Line 1314, Error in matching subgraphs '[H]'
+2025-09-28 15:23:21,118 MSE.Data INFO: Line 1330, Error in matching subgraphs '[H]'
+2025-09-28 15:23:22,175 MSE.Data INFO: Line 1351, Error in matching subgraphs '[H]'
+2025-09-28 15:23:25,480 MSE.Data INFO: Line 1404, Error in matching subgraphs '[H]'
+2025-09-28 15:23:29,285 MSE.Data INFO: Line 1482, Error in matching subgraphs '[H]'
+2025-09-28 15:23:30,711 MSE.Data INFO: Line 1494, Error in matching subgraphs '[H]'
+2025-09-28 15:23:36,202 MSE.Data INFO: Line 1607, Error in matching subgraphs '[H]'
+2025-09-28 15:23:37,841 MSE.Data INFO: Line 1631, Error in matching subgraphs '[H]'
+2025-09-28 15:23:37,961 MSE.Data INFO: Line 1633, Error in matching subgraphs '[H]'
+2025-09-28 15:23:42,094 MSE.Data INFO: Line 1707, Error in matching subgraphs '[H]'
+2025-09-28 15:23:42,627 MSE.Data INFO: Line 1712, Error in matching subgraphs '[H]'
+2025-09-28 15:23:43,729 MSE.Data INFO: Line 1734, Error in matching subgraphs '[H]'
+2025-09-28 15:23:46,010 MSE.Data INFO: Line 1778, Error in matching subgraphs '[H]'
+2025-09-28 15:23:47,653 MSE.Data INFO: Line 1809, Error in matching subgraphs '[H]'
+2025-09-28 15:23:54,097 MSE.Data INFO: Line 1915, Error in matching subgraphs '[H]'
+2025-09-28 15:23:56,525 MSE.Data INFO: Line 1969, Unable to process SMILES: C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)COC(=O)CCC(=O)[O-].[Na+]
+2025-09-28 15:23:57,486 MSE.Data INFO: Line 1988, Error in matching subgraphs '[H]'
+2025-09-28 15:24:04,225 MSE.Data INFO: MoleculeDataset(1984)
+2025-09-28 15:24:04,225 MSE.Data INFO: clintox
+2025-09-28 15:24:04,228 MSE.Data INFO: MoleculeDataset(1477)
+2025-09-28 15:24:04,228 MSE.Data INFO: esol
+2025-09-28 15:24:04,233 MSE.Data INFO: MoleculeDataset(1128)
+2025-09-28 15:24:04,233 MSE.Data INFO: freesolv
+2025-09-28 15:24:04,236 MSE.Data INFO: MoleculeDataset(642)
+2025-09-28 15:24:04,236 MSE.Data INFO: hiv
