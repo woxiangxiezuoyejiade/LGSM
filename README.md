@@ -59,13 +59,13 @@ All training and evaluation settings are specified in the file config.py or conf
 
 This file defines the experimental parameters used for ADMET prediction, including:
 
-&nbsp;&nbsp;&nbsp; **.** Dataset name and data directory
+&nbsp;&nbsp;&nbsp;**.** Dataset name and data directory
 
 &nbsp;&nbsp;&nbsp;**.**  Train/validation/test split settings
  
 &nbsp;&nbsp;&nbsp;**.** Batch size and number of training epochs
 
-&nbsp;&nbsp;&nbsp; **.** Learning rate and weight decay
+&nbsp;&nbsp;&nbsp;**.** Learning rate and weight decay
 
 &nbsp;&nbsp;&nbsp;**.** Random seed for reproducibility
 
