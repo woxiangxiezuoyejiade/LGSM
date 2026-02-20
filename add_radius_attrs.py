@@ -16,7 +16,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset', type=str, nargs='+', help='数据集名称（可指定多个，用空格分隔）')
     parser.add_argument('--all_datasets', action='store_true', help='处理data_dir下的所有数据集')
     parser.add_argument('--split', type=str, default='train', help='split名称（train/valid/test），仅当指定--file时使用')
-    parser.add_argument('--data_dir', type=str, default='./data/chem_dataset', help='数据目录')
+    parser.add_argument('--data_dir', type=str, default='./data/adme', help='数据目录')
     parser.add_argument('--cutoff', type=float, default=None, help='cutoff值（默认从config读取）')
     
     args = parser.parse_args()

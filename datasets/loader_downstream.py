@@ -133,10 +133,10 @@ class MoleculeDataset(InMemoryDataset):
         logger.info(f"Expected save path for {self.dataset}: {self.processed_paths[0]}")
         '''from utils.splitters import scaffold_split
         downstream_dir = [
-            'dataset/adme/CYP2C9_Substrate_CarbonMangels',
-            'dataset/adme/Half_Life_Obach',
-            'dataset/adme/VDss_Lombardo',
-            'dataset/adme/Pgp_Broccatelli'
+            'data/adme/CYP2C9_Substrate_CarbonMangels',
+            'data/adme/Half_Life_Obach',
+            'data/adme/VDss_Lombardo',
+            'data/adme/Pgp_Broccatelli'
         ]'''
         # 通用下游数据集仅返回 (smiles_list, rdkit_mol_objs, labels)
         # 个别数据集（如 bace）若需要 folds，请在此单独处理
